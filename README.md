@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemohr&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="ROS" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png">
+  <img align="center" alt="ROS" height="30" src="http://prerelease.ros.org/static/images/noetic.png">
   <img align="center" alt="Gazebo" height="30" src="https://seeklogo.com/images/G/gazebo-logo-51C46471CA-seeklogo.com.png">
   <img align="center" alt="Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
